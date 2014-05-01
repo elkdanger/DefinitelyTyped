@@ -1,6 +1,6 @@
 ﻿// Type definitions for Dropbox Chooser API client
-// Definitions by: Steve Hobbs <https://github.com/elkdanger>
 // Project: https://github.com/elkdanger/DefinitelyTyped/tree/dropbox-chooser/dropbox.chooser
+// Definitions by: Steve Hobbs <https://github.com/elkdanger>
 // Definitions: https://github.com/borisyankov/DefinitelyTyped
 // Dropbox Chooser js documentation: https://www.dropbox.com/developers/dropins/chooser/js
 
